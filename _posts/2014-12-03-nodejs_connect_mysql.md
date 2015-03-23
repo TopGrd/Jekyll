@@ -50,4 +50,4 @@ tags: [nodejs]
     connection.end();  //关闭连接
     
  上面的代码将我library数据库中bookinfo表的信息打印出来  
- ![photo](/assets/themes/Snail/img/mysql.jpg)  
+ ![photo](/assets/img/mysql.jpg)  
