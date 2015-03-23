@@ -9,9 +9,9 @@ date:   2014-12-13
 Jekyll also offers powerful support for code snippets:
 
 {% highlight javascript %}
-def print_hi(name)
+function print_hi(name){
   puts "Hi, #{name}"
-end
+}
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
