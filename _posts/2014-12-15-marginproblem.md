@@ -13,6 +13,7 @@ tags: [css]
 ##上下margin叠加  
   当两个元素为上下关系，且都具有margin属性时，此时margin会造成外边距叠加。  
   例如，页面有2个div id为a和b，他们的css如下:  
+    
     #a{
     	width:100px;
 		height:100px;
