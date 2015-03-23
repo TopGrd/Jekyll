@@ -13,7 +13,7 @@ tags: [css]
 ##上下margin叠加  
   当两个元素为上下关系，且都具有margin属性时，此时margin会造成外边距叠加。  
   例如，页面有2个div id为a和b，他们的css如下:  
-	#a{
+    #a{
     	width:100px;
 		height:100px;
 		background:red;
@@ -32,7 +32,7 @@ tags: [css]
   空白边叠加时，以较大的margin值为准。  
   怎么解决这个问题呢，根据css解释规则，在把元素设置float后，将不再进行margin叠加  
   
-  	#a{
+    #a{
     	width:100px;
 		height:100px;
 		background:red;
