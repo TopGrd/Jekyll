@@ -1,7 +1,7 @@
-name: Long Haul
+name: TopGrd
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://topgrd.me
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
