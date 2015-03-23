@@ -1,5 +1,5 @@
 name: TopGrd
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Blog
 
 url: http://topgrd.me
 paginate_path: "blog/page:num/"
