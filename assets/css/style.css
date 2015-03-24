@@ -8,7 +8,7 @@ html {
 }
 
 html {
-	font-family: "Microsoft YaHei", sans-serif!important;
+	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
@@ -633,7 +633,7 @@ html {
 }
 
 body {
-	font-family: "PT Serif",Georgia,Times,serif;
+	font-family: "Microsoft YaHei","PT Serif",Georgia,Times,serif;
 	line-height: 1.75;
 	font-size: 112.5%;
 	color: #111;
