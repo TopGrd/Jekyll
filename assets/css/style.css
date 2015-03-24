@@ -8,7 +8,7 @@ html {
 }
 
 html {
-	font-family: "Microsoft YaHei", sans-serif;
+	font-family: "Microsoft YaHei", sans-serif!important;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
