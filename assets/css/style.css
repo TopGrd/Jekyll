@@ -672,7 +672,7 @@ img,video,audio,iframe,object {
 }
 
 a {
-	color: #2e8b57
+	color: #555
 }
 
 a:hover {
@@ -1059,6 +1059,7 @@ dd {
 .posts li h3 {
 	margin: 0 0 .5em;
 	text-align: center;
+	font-family: Cambria, Georgia, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", "Times New Roman", serif;
 }
 
 @media only screen and (min-width:800px) {
