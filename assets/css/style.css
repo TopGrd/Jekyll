@@ -633,7 +633,7 @@ html {
 }
 
 body {
-	font-family: "Microsoft YaHei","PT Serif",Georgia,Times,serif;
+	font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 	line-height: 1.75;
 	font-size: 100%;
 	color: #111;
