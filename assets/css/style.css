@@ -1057,7 +1057,8 @@ dd {
 }
 
 .posts li h3 {
-	margin: 0 0 .5em
+	margin: 0 0 .5em;
+	text-align: center;
 }
 
 @media only screen and (min-width:800px) {
@@ -1099,7 +1100,7 @@ dd {
 	}
 
 	#home .posts,#home .pageTitle,#home .pagination {
-		width: 74.46809%;
+		width: 100%;
 		float: left;
 		margin-right: 2.12766%;
 		float: none;
