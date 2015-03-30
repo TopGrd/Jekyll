@@ -1357,3 +1357,7 @@ pre .css-property, pre .storage.function {
 pre .variable.global, pre .variable.class, pre .variable.instance {
     color: #A6E22E;
 }
+.description {
+    text-indent: 28px;
+}
+}
